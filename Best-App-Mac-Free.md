@@ -25,7 +25,7 @@
 ★★★★★  | 添加中 ([评级说明](#%E5%85%B3%E4%BA%8E)) | 欢迎推荐 |  |
 ★★★★★  | InsomniaX ([评级说明](#%E5%85%B3%E4%BA%8E)) | 可以分别控制mac 在合上盖子和空闲超时后是否进入休眠状态的掉软件 | 0.00 |
 ★★★★★  | Bartender ([评级说明](#%E5%85%B3%E4%BA%8E)) | 隐藏菜单栏图标，还你干净的菜单栏 | 免费4周 |
-★★★★☆  | MacID ([MacID](https://macid.co)) | 用手指解锁 Mac，需要配合 iOS app | macOS 免费 |
+★★★★☆  | MacID ([MacID](https://macid.co)) | 用手机（iPhone）解锁 Mac，需要配合 iOS app | macOS 免费 |
 ★★★★★  | Jietu ([Jietu](http://jietu.qq.com/)) | 腾讯良心出品的快捷标注、便捷分享的截屏工具 | macOS 免费 |
 ★★★★☆  | Waltr ([Waltr](https://softorino.com/waltr)) | 拖拽拷贝音频/视频到 iOS 设备 | macOS 免费 |
 ★★★☆☆  | Scroll Reverser ([Scroll Reverser](http://pilotmoon.com/scrollreverser/)) | 设置鼠标、触摸板滚动方向，外接鼠标必备。 | macOS 免费 |
